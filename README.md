@@ -1,11 +1,11 @@
-# exercisesJava-1
+# Exercises using Java Programming
 
 First exercises list using java programming - Basic Algorithms: variables and data input and output
 Centro Universitário UNA - Prof. Hamilton e Flávio
+number of cars sold by him, the total value of his sales, his fixed salary and the amount he receives per car sold. calculate and display the seller's final salary.
 
-    ```
-    In English:
-    ```
+### In Ensligh:
+
 Exercises:
 
 1. Read the dollar quote and the dollar amount. Convert to real and show result
@@ -20,10 +20,10 @@ Exercises:
 10. The cost of a new car to the consumer is the sum of the factory cost and the percentage of distributor and taxes (applied to factory cost). supposing that the distributor percentage is 28% and taxes 45%, read the cost of factory of a car, calculate and write the final cost to the consumer.
 11. A used car dealership pays its sales employees a fixed salary per month, plus a fixed commission for each car sold plus 5% of the value of the sales made by him. Read the number of cars sold by him, the total value of his sales, his fixed salary and the amount he receives per car sold. calculate and display the seller's final salary.
 
+### In Portguese:
 
-    ```
-    In Portuguese:
-    ```
+Exerícios:
+
 1. Ler a cotação do dólar e a quantidade de dólares. Converter para real e mostrar o resultado.
 2. Ler 4 números, calcular o quadrado para cada um, somar todos os quadrados e mostrar o resultado.
 3. Calcular o pagamento de comissão de vendedores de peças, levando-se em consideração que sua comissão será de 5% do total da venda e que você tem os seguintes dados: preço unitário da peça e quantidade vendida.
